@@ -2,6 +2,7 @@
   "name": "e-commerce-full",
   "version": "0.1.0",
   "private": true,
+  "author": "Martin Salinas",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
